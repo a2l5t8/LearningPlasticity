@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-0. **All Together** : Explore all the features of these networks and play around with paramters to understand it better as a whole (**Highly Recommend**)
+0. **All Together** : Explore all the features of these networks and play around with paramters to understand it better as a whole (**Highly Recommend**) - other method not completely functional (just to understand the structure and the code better, for experimental purposes use the Notebook)
    ```bash
    CNS-P03-Notebook.ipynb
    ```
